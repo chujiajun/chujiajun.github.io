@@ -13,7 +13,7 @@ github_repo: "https://github.com/chujiajun/chujiajun.github.io" #code repository
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "长夜难掩梦之光 前路有方"
-sidebar-avatar: /img/head.jpg      # 头像
+sidebar-avatar: /img/psb.jpg      # 头像
 
 
 
