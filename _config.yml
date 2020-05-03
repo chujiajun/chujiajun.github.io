@@ -1,13 +1,13 @@
 # Site settings | 网站设置
 title: iridescent
-SEOTitle: 610的博客
+SEOTitle: 楚嘉俊的博客
 header-img: img/home-bg-he.png
-email: liuyilin2016@qq.com
-description: "610的博客"
-keyword: "610, 610的博客, liuyilin, iridescent"
-url: "https://iridescent-610.github.io/"          # your host, for absolute URL
+email: 2508923668@qq.com
+description: "chujiajun的博客"
+keyword: "chujiajun, chujiajun的博客,chujiajun, iridescent"
+url: "https://chujiajun.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/iridescent-610/iridescent-610.github.io" #code repository | 代码仓库
+github_repo: "https://github.com/chujiajun/chujiajun.github.io" #code repository | 代码仓库
 
 
 # Sidebar settings | 侧边栏设置
@@ -21,8 +21,8 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 # SNS settings | 社交网络设置
 facebook_username: 
-github_username: iridescent-610
-zhihu_username: iridescent
+github_username: chujiajun
+zhihu_username: 
 csdn_username: 
 
 
@@ -63,9 +63,9 @@ gitalk:
   enable: true    # 是否开启Gitalk评论
   clientID: e281ae32f17d00d08c9f                            #生成的clientID
   clientSecret: bed0f74151256d1465807556056791d53c8628cb    #生成的clientSecret
-  repo: iridescent-610.github.io    #仓库名称
-  owner: iridescent-610    # github用户名
-  admin: iridescent-610
+  repo: chujiajun.github.io    #仓库名称
+  owner: chujiajun    # github用户名
+  admin: chujiajun
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
 
 
